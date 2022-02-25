@@ -1,7 +1,7 @@
 # auto-faq
 Fastest way to create faq bot.
 
-<img src"https://source.unsplash.com/random/1600x900?remote-cilization" style="width:300" />
+<img src="https://source.unsplash.com/random/1600x900?remote-cilization" style="width:300" />
 
 # todo:
   - golang repo: query all questions from public api (by key word (how, where , when))
